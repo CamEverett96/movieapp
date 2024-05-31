@@ -7,6 +7,7 @@
 
 <section class="relative pt-24 pb-32 overflow-hidden"><div class="container mx-auto px-4">
           <h2 class="mb-5 max-w-xl mx-auto font-heading font-bold text-center text-6xl sm:text-7xl text-gray-900">Search For Your Favorite Movies and Shows
+ 
           </h2>
       
           <div class="flex flex-wrap justify-center max-w-4xl mx-auto mb-12 divide-y md:divide-y-0 md:divide-x">

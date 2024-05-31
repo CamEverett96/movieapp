@@ -13,7 +13,9 @@
     @vite(['resources/css/app.css', 'resources/jsapp.js'])
 </head>
 <body class="antialiased bg-body text-body font-body">
+ 
     <div class="">
+    <?php echo phpinfo() ?>
                 <!-- Nav -->
       <section class="overflow-hidden">
         <div class="flex items-center justify-between px-8 py-5 bg-white">
